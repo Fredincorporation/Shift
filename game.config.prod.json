@@ -1,0 +1,6 @@
+{
+    "name": "shift-northlight",
+    "description": "SHIFT — a 3D isometric narrative game set at Northlight Interactive",
+    "orientation": "Portrait",
+    "buildPath": "dist"
+}
