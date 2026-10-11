@@ -19,7 +19,6 @@ import { ANCHORS } from '../world/anchors.ts';
 import DialogueOverlay from './DialogueOverlay.tsx';
 import PhoneOverlay from './PhoneOverlay.tsx';
 import TravelSheet from './TravelSheet.tsx';
-import SaveIndicator from './SaveIndicator.tsx';
 import EpisodeEnd from './EpisodeEnd.tsx';
 import Hud from './Hud.tsx';
 
